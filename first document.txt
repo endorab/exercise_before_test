@@ -1,0 +1,6 @@
+1     pizza
+2     cartofi
+3     faina
+4     gogosi
+5     ciuperci
+6     salata

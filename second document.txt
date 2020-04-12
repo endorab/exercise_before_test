@@ -1,0 +1,7 @@
+pret
+1   10lei
+2   15lei
+3   16lei
+4   18lei 
+5   20lei
+6   22lei
